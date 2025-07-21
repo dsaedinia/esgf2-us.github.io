@@ -34,4 +34,4 @@ For those familiar with the previous publisher, please be aware of the following
 ## Helpful Links:
 
 * `ESG Publisher Documentation`: [ESG Publisher Intro](https://esg-publisher.readthedocs.io/en/stable/intro.html)
-* `Github`: [ESG Publisher Github](https://github.com/esgf/esg-publisher)
+* `Github`: [E]
