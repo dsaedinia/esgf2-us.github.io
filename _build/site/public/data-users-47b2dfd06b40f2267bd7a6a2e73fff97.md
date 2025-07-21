@@ -1,0 +1,11 @@
+---
+title: Data Access
+---
+There are a lot of ways a user can access data:
+
+* `Metagrid`: MetaGrid is the next-generation search interface for the Earth System Grid Federation (ESGF). It's a user-friendly web application designed to help researchers find and access climate model data stored within the ESGF. Think of it as a more advanced way to search for and retrieve the data needed for climate research. 
+For more information visit [Metagrid](./metagrid-guide.md)
+* `Intake-ESGF`: `intake-esgf` is an [intake-esm](https://github.com/intake/intake-esm) *inspired* package under development in ESGF2. The main difference is that in place of querying a static index which is completely loaded at runtime, `intake-esgf` catalogs initialize empty and are populated by searching, querying ESGF index nodes.For more information visit [Intake-ESGF](./Intake-ESGF.md)
+* `Cookbooks` (optional): For more information visit [Cookbooks](./.md)
+* `ESG Pull` (optional): Options for the volume mount, e.g. `mountPropagation` for `hostPath` volumes
+
