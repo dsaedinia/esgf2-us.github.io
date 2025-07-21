@@ -16,10 +16,8 @@ CMIP has grown from a modest scientific research initiative in the early ninetie
 
 CMIP has been organised in different phases, each with new and improved climate model experiment protocols, standards, and data distribution mechanisms. CMIP6 is the most recent phase to release its modelling output data for general use, whilst the latest phase, CMIP7 is in its earliest organisational stages.
 
-Visit [WCRP-CMIP](https://wcrp-cmip.org/cmip-overview/) for more information.
+Visit 
 
-# Helpful Links:
+# CMIP Github repositories:
 
-* `CMIP Phases`: [WCRP-CMIP Phases](https://wcrp-cmip.org/cmip-phases/)
-* `WCRP-CMIP Github`: [WCRP-CMIP](https://github.com/WCRP-CMIP)
-* `CMIP Data Access`: [WCRP-CMIP Data Access](https://wcrp-cmip.org/cmip-data-access/)
+- https://github.com/WCRP-CMIP

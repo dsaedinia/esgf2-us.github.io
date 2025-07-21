@@ -20,6 +20,4 @@ Visit [WCRP-CMIP](https://wcrp-cmip.org/cmip-overview/) for more information.
 
 # Helpful Links:
 
-* `CMIP Phases`: [WCRP-CMIP Phases](https://wcrp-cmip.org/cmip-phases/)
-* `WCRP-CMIP Github`: [WCRP-CMIP](https://github.com/WCRP-CMIP)
-* `CMIP Data Access`: [WCRP-CMIP Data Access](https://wcrp-cmip.org/cmip-data-access/)
+* `WCRP-CMIP Github ` https://github.com/WCRP-CMIP

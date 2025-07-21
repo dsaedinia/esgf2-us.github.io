@@ -18,8 +18,6 @@ CMIP has been organised in different phases, each with new and improved climate 
 
 Visit [WCRP-CMIP](https://wcrp-cmip.org/cmip-overview/) for more information.
 
-# Helpful Links:
+# CMIP Github repositories:
 
-* `CMIP Phases`: [WCRP-CMIP Phases](https://wcrp-cmip.org/cmip-phases/)
-* `WCRP-CMIP Github`: [WCRP-CMIP](https://github.com/WCRP-CMIP)
-* `CMIP Data Access`: [WCRP-CMIP Data Access](https://wcrp-cmip.org/cmip-data-access/)
+- https://github.com/WCRP-CMIP
