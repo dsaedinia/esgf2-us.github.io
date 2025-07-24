@@ -35,7 +35,7 @@ project:
     - title: ESGF Developers
       children:
       - file: Developer-Guide.md
-      - file: metagrid-guide.md
+      - file: Metagrid-Developer-Guide.md
       - file: Intake-ESGF.md
       - file: backend.md
  
