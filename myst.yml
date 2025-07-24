@@ -39,7 +39,7 @@ project:
       - file: Intake-ESGF.md
       - file: backend.md
       - file: esgf-utils.md
- 
+    - file: CONTRIBUTING
 site:
   template: book-theme
   title: Earth System Grid Federation 2.0
@@ -47,12 +47,6 @@ site:
      favicon: images/esgf2-us.png
      logo: images/ESGF2-US_logo_transparent_word-crop.png
   nav:
-  - title: What is ESGF 2?
-    url: /project-overview
-  - title: Contributor's Guide 
-    url: /CONTRIBUTING 
-  - title: Q/A
-    url: /User-Support
   actions:
     - title: Learn More
       url: https://mystmd.org/guide
