@@ -38,6 +38,7 @@ project:
       - file: Metagrid-Developer-Guide.md
       - file: Intake-ESGF.md
       - file: backend.md
+      - file: esgf-utils.md
  
 site:
   template: book-theme
