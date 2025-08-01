@@ -1,5 +1,0 @@
----
-title: ESGF-2 US Cookbook
----
-## Overview
-This cookbook focuses on highlighting analysis recipes, as well as data acccess methods, all accesible within the Python programming language.
