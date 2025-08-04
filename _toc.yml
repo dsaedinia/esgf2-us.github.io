@@ -17,6 +17,6 @@
 
 format: jb-book
 root: README
-chapters:
-  - file: project-overview
-  - file: CONTRIBUTING
+
+
+
