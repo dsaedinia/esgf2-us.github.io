@@ -1,15 +1,13 @@
 ---
 title: Intake-ESGF
 ---
+
 ## Overview
-``intake-esgf`` is an `intake` and `intake-esm` *inspired* package under
-development in ESGF2. The data catalog is populated by querying a number of
-index nodes and puts together a global view of where the datasets may be found.
-If you are familiar with the interface for ``intake-esm``, then using this
-package should be straightforward.
+
+`intake-esgf` is an [intake-esm](https://github.com/intake/intake-esm) _inspired_ package under development by ESGF2 that provides programmatic access to ESGF data holdings. The main difference is that in place of querying a static index, which is completely loaded at runtime, `intake-esgf` catalogs initialize empty and are populated by searching, querying ESGF index nodes dynamically.
 
 ## Helpful Links
 
-* `intake-esgf`: [Intake-ESGF](https://intake-esgf.readthedocs.io/en/latest/index.html)
-* `Beginner's Guide to ESGF`: [Beginner's Guide](https://intake-esgf.readthedocs.io/en/latest/beginner.html)
-* `Github Page`: [Intake-ESGF Github](https://github.com/esgf2-us/intake-esgf)
+- `intake-esgf`: [Intake-ESGF](https://intake-esgf.readthedocs.io/en/latest/index.html)
+- `Beginner's Guide to ESGF`: [Beginner's Guide](https://intake-esgf.readthedocs.io/en/latest/beginner.html)
+- `Github Page`: [Intake-ESGF Github](https://github.com/esgf2-us/intake-esgf)

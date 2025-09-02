@@ -14,16 +14,16 @@ project:
     - file: project-overview.md
     - title: Data Users
       children:
-      - file: data-users.md       
-      - file: metagrid-guide.md 
-      - file: Intake-ESGF.md
-      - file: Cookbooks.md
-      - file: ESG-Pull.md
+        - file: data-users.md
+        - file: metagrid-guide.md
+        - file: Intake-ESGF.md
+        - file: Cookbooks.md
+        - file: ESG-Pull.md
     - title: Data Publishers
       children:
-      - file: ESG-Publisher.md
-      - file: ESG-Voc.md
-      - file: CMIP-Cheatsheet.md
+        - file: ESG-Publisher.md
+        - file: ESG-Voc.md
+        - file: CMIP-Cheatsheet.md
     - title: ESGF Node Operators
       children:
         - file: Node-Installation.md
@@ -31,23 +31,23 @@ project:
         - file: kubernetes.md
         - file: replicator.md
         - file: ESGF-Docker.md
-        - file: ESGF-Compute.md 
+        - file: ESGF-Compute.md
         - file: Debugging.md
     - title: ESGF Developers
       children:
-      - file: Developer-Guide.md
-      - file: Metagrid-Developer-Guide.md
-      - file: Intake-ESGF.md
-      - file: backend.md
-      - file: esgf-utils.md
+        - file: Developer-Guide.md
+        - file: Metagrid-Developer-Guide.md
+        - file: Intake-ESGF.md
+        - file: backend.md
+        - file: esgf-utils.md
     - file: CONTRIBUTING
-    
+
 site:
   template: book-theme
   title: Earth System Grid Federation 2.0
   options:
-     favicon: images/esgf2-us.png
-     logo: images/ESGF2-US_logo_transparent_word-crop.png
+    favicon: images/esgf2-us.png
+    logo: images/ESGF2-US_logo_transparent_word-crop.png
   nav:
   actions:
   domains: []
