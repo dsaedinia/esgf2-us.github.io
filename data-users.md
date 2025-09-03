@@ -2,7 +2,7 @@
 title: How to Access ESGF Data
 ---
 
-You can access ESGF data using the following options:
+There are several ways to access ESGF data, depending on your needs and preferred workflow. Whether you want a user-friendly web interface, programmatic access for analysis, or tools to manage large-scale downloads, ESGF offers flexible options. Below is an overview of the main methods:
 
 **Metagrid**
 : MetaGrid is the next-generation search interface for the Earth System Grid Federation (ESGF). It's a user-friendly web application designed to help researchers find and access climate model data stored within the ESGF. Think of it as a more advanced way to search for and retrieve the data needed for climate research. For more information visit&nbsp;[Metagrid](./metagrid-guide.md)
