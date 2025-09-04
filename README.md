@@ -1,39 +1,59 @@
-# ESGF2-US
+# ESGF2 – Earth System Grid Federation 2.0
 
-```{image} images/ESGF2-US_logo_transparent_word-crop.png
-:alt: ESGF2 Logo
-:width: 500px
-:align: center
+Welcome to **ESGF2**, documentation repository!
+
+This repository hosts the **documentation and tools** for accessing ESGF data, including Metagrid, Intake-ESGF, Cookbooks, ESG Pull, and developer resources.
+
+---
+
+## Documentation
+
+The site is organized into the following sections:
+
+- **Project Overview**  
+  General information about ESGF2-US and its goals.
+
+- **Data Users**  
+  Guides for researchers accessing ESGF data:
+
+  - Metagrid
+  - Intake-ESGF
+  - Cookbooks
+  - ESG Pull
+
+- **Data Publishers**  
+  Tools and resources for publishing datasets.
+
+- **ESGF Node Operators**  
+  Installation, configuration, and maintenance guides for ESGF nodes.
+
+- **ESGF Developers**  
+  Development tools, APIs, and internal developer resources.
+
+- **Contributing**  
+  Guidelines for contributing to this repository.
+
+---
+
+## 🛠 Local Development
+
+To preview the site locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/esgf2-us/esgf2-us.github.io.git
+cd esgf2-us.github.io
+
+# Install dependencies
+
+# pip installation
+pip install mystmd
+
+# Or npm installation
+npm install -g mystmd
+
+# Start local development server
+myst start
 ```
 
-## <br>Welcome to the Earth System Grid Federation 2 - US (ESGF2-US) Project!
-
-ESGF2-US is a U.S. Department of Energy initiative supporting the global Earth System Grid Federation (ESGF), a network for storing and sharing Earth system model data. It provides scientists worldwide with access to high-resolution climate datasets and is advancing ESGF to make data access faster, easier, and more reliable. [Learn More](./project-overview.md)
-
-::::{grid} 1 1 2 3
-
-:::{card}
-:header: Looking for Data? 🔎
-Check out&nbsp;[Metagrid](https://aims2.llnl.gov/search), our search interface for finding ESGF Data! \
-For more ways to access ESGF data, visit&nbsp;[How to Access ESGF Data](./data-users.md).
-:::
-
-:::{card}
-:header: Publishing Data? 🌐
-Learn how ESGF supports data publishers, from preparing datasets to making them accessible to the global research community [here!](./ESG-Publisher.md)
-:::
-
-:::{card}
-:header: Want to learn by example? 💻
-Explore ready-to-use analysis recipes and data access guides in our&nbsp;[ESGF Computational Cookbook](https://projectpythia.github.io/esgf-cookbook)
-:::
-::::
-
-<!--Will potentially change after developer guid is complete-->
- <!--
-    :::{card}
-:header: Building on ESGF? 💻
-Access APIs, tools, and examples to integrate ESGF data into your workflows or develop new applications. \
-[Explore developer resources](./developers.md)
-:::
-    -->
+To learn how to contribute, visit our [Contributors](/CONTRIBUTING.md) Guide.

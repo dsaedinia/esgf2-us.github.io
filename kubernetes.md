@@ -27,11 +27,11 @@ apply some common configurations.
 
 Before attempting to install the ESGF Helm chart, you must have the following:
 
-  * A Kubernetes cluster with an
-    [Ingress Controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/) enabled
-  * [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) installed and configured to talk
-    to your cluster
-  * [Helm](https://helm.sh/docs/intro/install/) installed
+- A Kubernetes cluster with an
+  [Ingress Controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/) enabled
+- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) installed and configured to talk
+  to your cluster
+- [Helm](https://helm.sh/docs/intro/install/) installed
 
 Next, make a configuration directory - this can be anywhere on your machine that is **not** under
 `esgf-docker`. You can also place this directory under version control if you wish - this can be very
@@ -71,6 +71,8 @@ minikube addons enable ingress
 # Install the test data
 minikube ssh "curl -fsSL https://github.com/roocs/mini-esgf-data/tarball/master | sudo tar -xz --strip-components=1 -C / --wildcards */test_data"
 ```
+
+## Configuring the Installation
 
 Configure the chart to serve the test data (see
 [minikube-values.yaml](../../deploy/kubernetes/minikube-values.yaml)), using a `nip.io`

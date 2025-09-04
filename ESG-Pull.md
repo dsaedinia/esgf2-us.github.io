@@ -5,7 +5,7 @@ title: ESG Pull
 # Introduction
 
 `esgpull` is a modern ESGF data management tool, bundled with a custom asynchronous interface with the [ESGF Search API].
-It handles scanning, downloading and updating **datasets**, **files** and *queries* from ESGF.
+It handles scanning, downloading and updating **datasets**, **files** and _queries_ from ESGF.
 
 <!-- Its simple data model makes `esgpull` easy to use, it is completely possible to never download a single file and still find a use for it. -->
 
@@ -18,7 +18,11 @@ It handles scanning, downloading and updating **datasets**, **files** and *queri
 
 ## Setup
 
-Run `$ pip install esgpull` to install the latest release and its dependencies.
+Run the command below to install the latest release and its dependencies.
+
+```bash
+$ pip install esgpull
+```
 
 Have a look at the [Installation page](https://svenrdz.github.io/esg-pull/installation/) for more ways to install.
 
@@ -26,11 +30,11 @@ Have a look at the [Installation page](https://svenrdz.github.io/esg-pull/instal
 
 Jump directly to the [Quickstart guide](https://svenrdz.github.io/esg-pull/quickstart/) to get to know how to use `esgpull`.
 
-
 <!-- [ESGF portal]: https://esgf-node.ipsl.upmc.fr/search/cmip6-ipsl -->
+
 [ESGF Search API]: https://esgf.github.io/esg-search/ESGF_Search_RESTful_API.html
 
 ## Helpful Links:
 
-* `ESG Pull Documentation`: [Intro to ESG Pull](https://svenrdz.github.io/esg-pull/)
-* `ESG Pull Github`: [ESG Pull Github](https://github.com/ESGF/esgf-download/tree/main/docs/docs)
+- `ESG Pull Documentation`: [Intro to ESG Pull](https://svenrdz.github.io/esg-pull/)
+- `ESG Pull Github`: [ESG Pull Github](https://github.com/ESGF/esgf-download/tree/main/docs/docs)

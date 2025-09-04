@@ -16,7 +16,41 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: README
+root: index
 
+sections:
+  - file: project-overview.md
 
+  - title: Data Users
+    children:
+      - file: data-users.md
+      - file: metagrid-guide.md
+      - file: Intake-ESGF.md
+      - file: Cookbooks.md
+      - file: ESG-Pull.md
 
+  - title: Data Publishers
+    children:
+      - file: ESG-Publisher.md
+      - file: ESG-Voc.md
+      - file: CMIP-Cheatsheet.md
+
+  - title: ESGF Node Operators
+    children:
+      - file: Node-Installation.md
+      - file: ESGF-Installer.md
+      - file: kubernetes.md
+      - file: replicator.md
+      - file: ESGF-Docker.md
+      - file: ESGF-Compute.md
+      - file: node-troubleshooting.md
+
+  - title: ESGF Developers
+    children:
+      - file: Developer-Guide.md
+      - file: Metagrid-Developer-Guide.md
+      - file: Intake-ESGF.md
+      - file: backend.md
+      - file: esgf-utils.md
+
+  - file: CONTRIBUTING.md
