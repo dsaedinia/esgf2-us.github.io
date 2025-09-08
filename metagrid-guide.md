@@ -6,7 +6,7 @@ title: "Metagrid Guide"
 
 ## What is Metagrid?
 
-[Metagrid](https://aims2.llnl.gov/) is the next-generation search interface for the Earth System Grid Federation (ESGF). It's a user-friendly web application designed to help researchers find and access climate model data stored within the ESGF. Think of it as a more advanced way to search for and retrieve the data needed for climate research. You can access Metagrid [here](https://aims2.llnl.gov/).
+[Metagrid](https://esgf-node.ornl.gov/) is the next-generation search interface for the Earth System Grid Federation (ESGF). It's a user-friendly web application designed to help researchers find and access climate model data stored within the ESGF. Think of it as a more advanced way to search for and retrieve the data needed for climate research. You can access Metagrid [here](https://esgf-node.ornl.gov/).
 
 ## MetaGrid's Function:
 

@@ -1,42 +1,55 @@
 ---
-title: ESGF2-US
+title: Home
 github: https://github.com/esgf2-us
+site:
+  hide_title_block: true
+  hide_outline: true
+  hide_toc: true
 ---
 
-# ESGF2-US
++++ {"kind": "centered"}
 
-```{image} images/ESGF2-US_logo_transparent_word-crop.png
-:alt: ESGF2 Logo
-:width: 500px
-:align: center
-```
+Welcome to
 
-## <br>Welcome to the Earth System Grid Federation 2 - US (ESGF2-US) Project!
+## The Earth System Grid Federation 2 - US (ESGF2-US) Project!
 
-ESGF2-US is a U.S. Department of Energy initiative supporting the global Earth System Grid Federation (ESGF), a network for storing and sharing Earth system model data. It provides scientists worldwide with access to high-resolution climate datasets and is advancing ESGF to make data access faster, easier, and more reliable. [Learn More](./project-overview.md)
+ESGF2-US is a U.S. Department of Energy initiative supporting the global Earth System Grid Federation (ESGF), a network for storing and sharing Earth system model data. It provides scientists worldwide with access to high-resolution climate datasets and is advancing ESGF to make data access faster, easier, and more reliable.
+{button}`Learn More <./project-overview.md>`
++++
 
-::::{grid} 1 1 2 2
++++ {"kind": "justified"}
+
+### See What ESGF Offers:
+
+::::{grid} 1 2 4 4
 
 :::{card}
 :header: Looking for Data? 🔎
-Check out&nbsp;[Metagrid](https://aims2.llnl.gov/search), our search interface for finding ESGF Data! \
-For more ways to access ESGF data, visit&nbsp;[How to Access ESGF Data](./data-users.md).
+:class: stretched-link
+:footer: More ways to access ESGF data >>
+:link: ./data-users.md
+Check out&nbsp;[Metagrid](./metagrid-guide.md), our search interface for finding ESGF Data, or &nbsp;[intake-esgf](./Intake-ESGF.md) to find data programmatically!
 :::
 
 :::{card}
 :header: Publishing Data? 🌐
-Learn how ESGF supports data publishers, from preparing datasets to making them accessible to the global research community [here!](./ESG-Publisher.md)
+:link: ./ESG-Publisher.md
+:footer: Visit Data Publishers >>
+Learn how ESGF supports data publishers, from preparing datasets to making them accessible to the global research community.
 :::
 
 :::{card}
 :header: ESGF Node Operators 🖧
-Resources for ESGF node operators, including installation, maintenance, and node management guides:  
-[Node Installation Guid](./Node-Installation.md)
+:link: ./Node-Installation.md
+:footer: Visit Node Operators >>
+Resources for ESGF node operators, including installation, maintenance, and node management guides.
 :::
 
 :::{card}
 :header: ESGF Developers 🛠️
-Guides and resources for ESGF developers, including backend tools, APIs, and contributing code: [Developer's Guide](./Developer-Guide.md)
+:link: ./Developer-Guide.md
+:footer: Visit the Developer's Guide >>
+Guides and resources for ESGF developers, including backend tools, APIs, and contributing code.
 :::
 
 <!-- Link to this available at ./data-users.md
@@ -47,3 +60,4 @@ Explore ready-to-use analysis recipes and data access guides in our&nbsp;[ESGF C
 -->
 
 ::::
++++
