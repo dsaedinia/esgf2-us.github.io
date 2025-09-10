@@ -17,11 +17,13 @@ ESGF2-US is a U.S. Department of Energy initiative supporting the global Earth S
 {button}`Learn More <./project-overview.md>`
 +++
 
-+++ {"kind": "justified"}
++++ {"kind": "justified", "class":"smaller-header"}
 
-### See What ESGF Offers:
+## Explore ESGF Resources
 
-::::{grid} 1 2 4 4
+The Earth System Grid Federation (ESGF) provides tools and resources to help a diverse community access, manage, and contribute Earth system data. Whether you are exploring datasets, publishing your own, or working on the technical infrastructure, the sections below will guide you to the resources most relevant to your role.
+
+::::{grid} 1 2 2 4
 
 :::{card}
 :header: Looking for Data? 🔎
@@ -61,3 +63,7 @@ Explore ready-to-use analysis recipes and data access guides in our&nbsp;[ESGF C
 
 ::::
 +++
+
+:::{attention}
+This project is a work in progress, and we welcome contributions from the community. For details on how to get involved, please refer to our [Contributor's guide](./CONTRIBUTING.md).
+:::

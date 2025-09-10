@@ -50,7 +50,7 @@ site:
   options:
     favicon: images/esgf2-us.png
     logo: images/ESGF2-US_logo_transparent_word-crop.png
-    style: ./style.css
+    style: ./custom-style.css
   nav:
     - title: Metagrid
       url: https://esgf-node.ornl.gov/

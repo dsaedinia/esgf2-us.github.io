@@ -1,0 +1,9 @@
+
+/* Override Default CSS */
+.smaller-header {
+  margin-top: -10% !important;  /* reduce space above block */
+}
+
+.smaller-header h2 {
+  font-size: 2.5rem !important;
+}
